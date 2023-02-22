@@ -163,9 +163,9 @@ ul li:hover a{
     font-size: 35px;
    background-color: dimgray;
    height:150px;
-    width:0 auto;
+   width:0 auto;
    text-align: center;
-    color: #ffffff;
-    vertical-align: middle;
+   color: #ffffff;
+   vertical-align: middle;
       
 }
